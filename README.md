@@ -5,7 +5,7 @@ I am a Software Engineer at [ProArea](https://proarea.com/)
 Currently, I am learning Python and FastAPI.
 
 **Tech stack:**
-[Dart](https://dart.dev/), [https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png][Flutter](https://flutter.dev/), [Automation Testing](https://docs.flutter.dev/testing), [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/)
+[Dart](https://dart.dev/), [<img align="left" alt="Java" width="30px" src "https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][Flutter](https://flutter.dev/), [Automation Testing](https://docs.flutter.dev/testing), [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/)
 
 
 
