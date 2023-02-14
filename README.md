@@ -1,6 +1,11 @@
 ### Hi guys! My name is Mykyta, but you can call me Nick 👋
 
-qwerty
+I am Software Engineer at [ProArea](https://proarea.com/)
+
+Currently, I am learning Python and FastAPI.
+
+**Tech stack:**
+:
 
 
 
