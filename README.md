@@ -5,7 +5,7 @@ I am Software Engineer at [ProArea](https://proarea.com/)
 Currently, I am learning Python and FastAPI.
 
 **Tech stack:**
-:
+[🎯 Dart](https://dart.dev/), [🦋 Flutter](https://flutter.dev/), [🧪 Automation Testing](https://docs.flutter.dev/testing), [🐍 Python](https://www.python.org/), [[image](https://user-images.githubusercontent.com/16386499/218831732-1743ede3-d7c8-49c5-98d9-86cc81a03112.png) [FastAPI]
 
 
 
