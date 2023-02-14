@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi guys! My name is Mykyta, but you can call me Nick 👋
+
+
 
 <!--
 **mykyta-kovalenko/mykyta-kovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
