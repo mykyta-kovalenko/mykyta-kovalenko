@@ -1,10 +1,10 @@
 ### Hi guys! My name is Mykyta, but you can call me Nick 👋
 
-I am Software Engineer at [ProArea](https://proarea.com/)
+I am a Software Engineer at [ProArea](https://proarea.com/)
 
 Currently, I am learning Python and FastAPI.
 
-**Tech stack:**
+**Tech stack:**/n
 [Dart](https://dart.dev/), [Flutter](https://flutter.dev/), [Automation Testing](https://docs.flutter.dev/testing), [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/)
 
 
