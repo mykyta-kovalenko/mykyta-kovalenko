@@ -1,4 +1,4 @@
-### Hi guys! My name is Mykyta, but you can call me Nick 👋
+### Hi! My name is Mykyta 👋
 
 I am a Software Engineer at [ProArea](https://proarea.com/)
 
