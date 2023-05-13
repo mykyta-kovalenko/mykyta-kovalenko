@@ -1,10 +1,5 @@
 ### Hi! My name is Mykyta 👋
 
-I am a Software Engineer at [ProArea](https://proarea.com/)
-
-**Tech stack:**
-[Dart](https://dart.dev/), [Flutter](https://flutter.dev/), [Automation Testing](https://docs.flutter.dev/testing), [Python](https://www.python.org/)
-
 <!-- [FastAPI](https://fastapi.tiangolo.com/) -->
 
 
